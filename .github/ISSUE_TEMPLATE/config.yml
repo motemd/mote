@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/sangbinyun/mote/discussions
+    about: Ask, suggest, show what you made
+  - name: Security
+    url: https://github.com/sangbinyun/mote/blob/main/SECURITY.md
+    about: Report a vulnerability privately
