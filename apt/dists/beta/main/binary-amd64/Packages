@@ -1,0 +1,21 @@
+Package: mote
+Architecture: amd64
+Version: 0.9.0~beta.1
+Priority: optional
+Section: editors
+Maintainer: mote <support@motemd.com>
+Installed-Size: 10056
+Depends: libgtk-4-1 (>= 4.14), libadwaita-1-0 (>= 1.5), libpango-1.0-0, libcairo2, libglib2.0-0, fontconfig
+Recommends: fonts-noto-cjk, fonts-lmodern, ibus-hangul
+Filename: pool/beta/m/mote/mote_0.9.0~beta.1_amd64.deb
+Size: 4009936
+MD5sum: 44b336a3dfa821e693d4ac9262222cdb
+SHA1: 2a7ec4415e6eaa3e296ad7e48dc2236bcf3457f0
+SHA256: 981c510292083bae950e0fc5b09474aad89b34c40e588ac9335ee18ec391f659
+SHA512: 86cbe284695a3a6c85bcf66ca68d7f4ff4068f503bb6d42abf7514d4175a8507802c81aab6f3c0bdec33c30529189c6c0ab89d45b592088e2ee709fccc1fbdfc
+Homepage: https://motemd.com
+Description: Native live Markdown editor
+ Typora-class inline editing without a web engine. Nothing runs while idle,
+ typing uses a fraction of one core, and the file is saved exactly as typed.
+ Korean input is verified through the platform IME before every release.
+
