@@ -8,7 +8,7 @@
 # Uninstall: ~/.local/opt/mote/install.sh --uninstall
 set -eu
 BASE=https://get.motemd.com
-REPO=https://github.com/sangbinyun/mote
+REPO=https://github.com/motemd/mote
 FPR="2E25 9EF2 B369 0ECE 0B3F 56D9 6658 9312 CB84 475F"
 arch=$(uname -m); [ "$arch" = x86_64 ] || { echo "mote: only x86_64 Linux builds exist yet (this is $arch)" >&2; exit 1; }
 command -v curl >/dev/null 2>&1 || { echo "mote: curl is required" >&2; exit 1; }
