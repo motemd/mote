@@ -4,15 +4,15 @@ Version: 0.9.0~beta.1
 Priority: optional
 Section: editors
 Maintainer: mote <support@motemd.com>
-Installed-Size: 10056
+Installed-Size: 10052
 Depends: libgtk-4-1 (>= 4.14), libadwaita-1-0 (>= 1.5), libpango-1.0-0, libcairo2, libglib2.0-0, fontconfig
 Recommends: fonts-noto-cjk, fonts-lmodern, ibus-hangul
 Filename: pool/beta/m/mote/mote_0.9.0~beta.1_amd64.deb
-Size: 4009936
-MD5sum: 44b336a3dfa821e693d4ac9262222cdb
-SHA1: 2a7ec4415e6eaa3e296ad7e48dc2236bcf3457f0
-SHA256: 981c510292083bae950e0fc5b09474aad89b34c40e588ac9335ee18ec391f659
-SHA512: 86cbe284695a3a6c85bcf66ca68d7f4ff4068f503bb6d42abf7514d4175a8507802c81aab6f3c0bdec33c30529189c6c0ab89d45b592088e2ee709fccc1fbdfc
+Size: 4011808
+MD5sum: fc907a108fa0a4c1ae21bef03f38cdfb
+SHA1: 0f5e491b8c5ddfa9ebf92de1eed7e5f585f44f58
+SHA256: dad632f53949bd8009ad9bea1631e189c143e82fb9bbe6a106e3635b04d05253
+SHA512: eb944d8ab83d26a57ce9a2ec875afdc8db0ab2cf1903d6bd0f288c036a638e64094874078915d55eaae045a1cfefc44f10a1cf9d9a7cd90766ef0cde94d81c9c
 Homepage: https://motemd.com
 Description: Native live Markdown editor
  Typora-class inline editing without a web engine. Nothing runs while idle,
