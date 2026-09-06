@@ -11,7 +11,7 @@ This repository is the product home — releases, issues, discussions and the se
 | Form | Where it runs | How |
 |---|---|---|
 | **apt repository** (.deb) | Ubuntu 24.04+, Debian 13+ | see below |
-| **.deb** | Ubuntu 24.04+, Debian 13+ | [Releases](https://github.com/sangbinyun/mote/releases) → `sudo apt install ./mote_<version>_amd64.deb` |
+| **.deb** | Ubuntu 24.04+, Debian 13+ | [Releases](https://github.com/motemd/mote/releases) → `sudo apt install ./mote_<version>_amd64.deb` |
 | **AppImage** | Ubuntu 22.04+, any glibc 2.35+ distribution | download, `chmod +x`, run |
 | **Terminal install** (tarball, no root) | Ubuntu 22.04+, any glibc 2.35+ distribution | `curl -fsSL https://get.motemd.com/install.sh \| sh` |
 | **Flatpak** | any distribution | Flathub — submitted, pending review |
@@ -24,7 +24,7 @@ echo "deb [signed-by=/etc/apt/keyrings/mote.asc] https://get.motemd.com/apt beta
 sudo apt update && sudo apt install mote
 
 # AppImage (Ubuntu 22.04+; no installation)
-curl -LO https://github.com/sangbinyun/mote/releases/download/v0.9.0-beta.1/mote-0.9.0-beta.1-x86_64.AppImage
+curl -LO https://github.com/motemd/mote/releases/download/v0.9.0-beta.1/mote-0.9.0-beta.1-x86_64.AppImage
 chmod +x mote-0.9.0-beta.1-x86_64.AppImage && ./mote-0.9.0-beta.1-x86_64.AppImage
 
 # Tarball into ~/.local (no root) — verifies the checksum and signature
@@ -49,10 +49,10 @@ Linux x86_64. X11 or Wayland. Korean and other IME input through ibus or fcitx5.
 
 ## Feedback
 
-- Bugs: [Issues](https://github.com/sangbinyun/mote/issues) — please include the version (`mote --version`), your distribution and session (X11/Wayland), and a small `.md` that shows the problem.
-- Questions and ideas: [Discussions](https://github.com/sangbinyun/mote/discussions).
+- Bugs: [Issues](https://github.com/motemd/mote/issues) — please include the version (`mote --version`), your distribution and session (X11/Wayland), and a small `.md` that shows the problem.
+- Questions and ideas: [Discussions](https://github.com/motemd/mote/discussions).
 - Security: see [SECURITY.md](SECURITY.md).
-- Release feed: [releases.atom](https://github.com/sangbinyun/mote/releases.atom).
+- Release feed: [releases.atom](https://github.com/motemd/mote/releases.atom).
 
 ## Licence
 
