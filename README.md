@@ -2,7 +2,7 @@
 
 **A native live Markdown editor for Linux.** Edit in place like Typora, without a web engine: nothing runs while you read, typing uses a fraction of one core, and the file on disk stays exactly what you typed.
 
-Website and docs: **[motemd.com](https://motemd.com)** · Public beta, free until 1.0.
+Website and docs: **[motemd.com](https://motemd.com)** · Public beta — each beta build runs for 90 days from its release; a licence is required from 1.0 ($19.99 once, up to three devices).
 
 This repository is the product home — releases, issues, discussions and the security policy. The source is not public; the [benchmark harness](https://motemd.com/benchmarks) is.
 
@@ -56,4 +56,4 @@ Linux x86_64. X11 or Wayland. Korean and other IME input through ibus or fcitx5.
 
 ## Licence
 
-mote is proprietary software, free of charge during the public beta. Use is governed by the [terms of service](https://motemd.com/terms). Bundled font: Pretendard (SIL Open Font License 1.1).
+mote is proprietary software. Beta builds may be used without a licence until they expire; from 1.0 a licence is required. Use is governed by the [terms of service](https://motemd.com/terms). Bundled font: Pretendard (SIL Open Font License 1.1).
