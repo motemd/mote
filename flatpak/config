@@ -8,4 +8,4 @@ title=mote
 comment=mote — a native live Markdown editor
 description=mote's own Flatpak repository (motemd.com). Branches: stable, beta.
 homepage=https://motemd.com
-default-branch=beta
+default-branch=stable

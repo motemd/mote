@@ -1,0 +1,22 @@
+Package: mote
+Architecture: amd64
+Version: 1.0.0
+Priority: optional
+Section: editors
+Maintainer: mote <support@motemd.com>
+Installed-Size: 121328
+Depends: libc6 (>= 2.35), fontconfig-config, libegl1, libexpat1, libfreetype6, libgcc-s1, libgl1, libstdc++6, libx11-6, libxau6, libxcb-render0, libxcb-shm0, libxcb1, libxcursor1, libxdamage1, libxdmcp6, libxext6, libxfixes3, libxi6, libxinerama1, libxrandr2, libxrender1, zlib1g
+Recommends: fonts-noto-cjk, ibus-hangul, shared-mime-info, xdg-utils
+Filename: pool/stable/m/mote/mote_1.0.0_amd64.deb
+Size: 34710496
+MD5sum: 0a809c44b6480005302c9e66c800a50a
+SHA1: a8aed72238c274bd55def6ba012acf94d501d832
+SHA256: 537c548360b4888c7e37eaadc08cbc1772c61e57c24b7f97035e81102603ac45
+SHA512: 003ec786663937ff9be8f05ddb61af1b82b0c6bf03f3c023a5d8bea4584b214e95b93911efff4babbbef91aed77ba78531faf37f222e0df485ba824dc9bddfce
+Homepage: https://motemd.com
+Description: Native live Markdown editor
+ Typora-class inline editing without a web engine. Nothing runs while idle,
+ typing uses a fraction of one core, and the file is saved exactly as typed.
+ Ships its own GTK 4 / libadwaita under /opt/mote, so it behaves the same on
+ every distribution (Ubuntu 22.04+, Debian 12+).
+

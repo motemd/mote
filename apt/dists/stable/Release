@@ -1,0 +1,23 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Tue, 08 Sep 2026 16:42:54 +0000
+Label: mote
+Origin: mote
+Suite: stable
+MD5Sum:
+ bf512c30494fef5b3fb84a7ad9a8e890              132 Release
+ 705f9c9fee3ef6beab2c4862d59ad2f4             1208 main/binary-amd64/Packages
+ e03c886ccf1b0023de0c4d57ecb0a5ed              801 main/binary-amd64/Packages.gz
+SHA1:
+ a71856d81c30161a1af39a78907213097c07dba9              132 Release
+ 3cbedb1511d31e4d401c2997505c5272e6ca7e31             1208 main/binary-amd64/Packages
+ 295f75d29125828ddd10364edf303e22a90708da              801 main/binary-amd64/Packages.gz
+SHA256:
+ bdf2756efd7b86d696ed1736e13102c86dfb21e81c0e4005aff50fb9d1222433              132 Release
+ 2b0bed661b624992e8507d27f6236699b5aa799817f70864393ddea02c0ad193             1208 main/binary-amd64/Packages
+ 86d1e5178a70daa47ee95bd800be53b125d1d8cc01f848c7741c8e302d35c0bd              801 main/binary-amd64/Packages.gz
+SHA512:
+ 9df093b2b9405b018f566b19cf2be48b6f42dcf6c90accdd2092607aa4a5dd04e077e8e6188050b548885b847ea46a79e301ad17926ce4dd89e8eb52e626f99f              132 Release
+ ada9b2fbd54629381538a872e76c5ef21b16ba24e3f586bfe67586121e05d76913d5581633810fa7f40de0d05cb93a81fa28758bfa9f392fd3e1f8851344d049             1208 main/binary-amd64/Packages
+ b19fa124783de226e5839b25516ac1ff660c1080c6e1f7aa96963c9cceb35f174fa1e2678cf0976f5225d3f7d2ed522555470685c69116582a5812574de54d24              801 main/binary-amd64/Packages.gz
